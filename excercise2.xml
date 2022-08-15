@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <name>
+        <fName>Arthur</fName>
+        <lName>Fleck</lName>
+    </name>
+    <occupation>
+        Stand-Up Comedian
+    </occupation>
+    <address>
+        <country>USA</country>
+        <state>Gotham</state>
+        <city>Gotham</city>
+        <zipCode>12345</zipCode>
+        <Street>16 Wayne</Street>
+    </address>
+    <hobbies>
+        <hobby>Telling Jokes</hobby>
+        <hobby>Watching Movies</hobby>
+    </hobbies> 
+</person>
